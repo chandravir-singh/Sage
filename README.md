@@ -6,9 +6,9 @@
 
 <h4 >A mental health assistance application built on <a href="https://developer.android.com/studio/" target="_blank">Android Studio</a>.</h4>
 
-  [![Code size](https://img.shields.io/github/languages/code-size/ThakurSaAbhay/Sage?style=for-the-badge)](https://github.com/ThakurSaAbhay/Sage)
-  [![Issues](https://img.shields.io/github/issues/ThakurSaAbhay/Sage?style=for-the-badge&label=Issues)](https://github.com/ThakurSaAbhay/Sage)
-  [![GitHub last commit](https://img.shields.io/github/last-commit/ThakurSaAbhay/Sage?style=for-the-badge&logo=git)](https://github.com/ThakurSaAbhay/Sage) 
+  [![Code size](https://img.shields.io/github/languages/code-size/chandravir-singh/Sage?style=for-the-badge)](https://github.com/chandravir-singh/Sage)
+  [![Issues](https://img.shields.io/github/issues/chandravir-singh/Sage?style=for-the-badge&label=Issues)](https://github.com/chandravir-singh/Sage)
+  [![GitHub last commit](https://img.shields.io/github/last-commit/chandravir-singh/Sage?style=for-the-badge&logo=git)](https://github.com/chandravir-singh/Sage) 
 
 <p>
   <a href="#key-features">Key Features</a> •
@@ -32,22 +32,22 @@
 
 ## Project Snapshots
 
-![Screenshot 2024-04-23 101436](https://github.com/ThakurSaAbhay/Sage/assets/98638332/575d2e5c-d0ac-42c8-9994-711e5d408637)
-![Screenshot 2024-04-23 101504](https://github.com/ThakurSaAbhay/Sage/assets/98638332/799b2d8f-6cb7-4b39-b2e3-6dc339c4927b)
-![Screenshot 2024-04-23 101528](https://github.com/ThakurSaAbhay/Sage/assets/98638332/cd627b36-bcaa-4be5-ab02-6a39e885ebac)
-![Screenshot 2024-04-23 101555](https://github.com/ThakurSaAbhay/Sage/assets/98638332/2a1c7d4f-0981-412a-b504-c2b9363c8780)
-![Screenshot 2024-04-23 101655](https://github.com/ThakurSaAbhay/Sage/assets/98638332/f813b6eb-ff18-4e9a-b6bc-f9e3704585c9)
+![Screenshot 2024-04-23 101436](https://github.com/chandravir-singh/Sage/assets/98638332/575d2e5c-d0ac-42c8-9994-711e5d408637)
+![Screenshot 2024-04-23 101504](https://github.com/chandravir-singh/Sage/assets/98638332/799b2d8f-6cb7-4b39-b2e3-6dc339c4927b)
+![Screenshot 2024-04-23 101528](https://github.com/chandravir-singh/Sage/assets/98638332/cd627b36-bcaa-4be5-ab02-6a39e885ebac)
+![Screenshot 2024-04-23 101555](https://github.com/chandravir-singh/Sage/assets/98638332/2a1c7d4f-0981-412a-b504-c2b9363c8780)
+![Screenshot 2024-04-23 101655](https://github.com/chandravir-singh/Sage/assets/98638332/f813b6eb-ff18-4e9a-b6bc-f9e3704585c9)
 
 
 ## Project Video
 
 
 
-https://github.com/ThakurSaAbhay/Sage/assets/98638332/8031072b-6a4a-4fa7-9a26-15bb20c7d1ae
+https://github.com/chandravir-singh/Sage/assets/98638332/8031072b-6a4a-4fa7-9a26-15bb20c7d1ae
 
 
 
-https://github.com/ThakurSaAbhay/Sage/assets/98638332/dc2a30d1-ddf4-4e2d-89da-045384318724
+https://github.com/chandravir-singh/Sage/assets/98638332/dc2a30d1-ddf4-4e2d-89da-045384318724
 
 
 
