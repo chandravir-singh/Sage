@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "786426436143",
+    "project_id": "sage-login-40ce2",
+    "storage_bucket": "sage-login-40ce2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786426436143:android:fa3280be46b9164a27c4da",
+        "android_client_info": {
+          "package_name": "com.google.ai.sample"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlVnyr7TOyLJg4feGef5ZXvc1fux8s4Zs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
