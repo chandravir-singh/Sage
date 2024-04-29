@@ -32,11 +32,7 @@
 
 ## Project Snapshots
 
-![Screenshot 2024-04-23 101436](https://github.com/chandravir-singh/Sage/assets/98638332/575d2e5c-d0ac-42c8-9994-711e5d408637)
-![Screenshot 2024-04-23 101504](https://github.com/chandravir-singh/Sage/assets/98638332/799b2d8f-6cb7-4b39-b2e3-6dc339c4927b)
-![Screenshot 2024-04-23 101528](https://github.com/chandravir-singh/Sage/assets/98638332/cd627b36-bcaa-4be5-ab02-6a39e885ebac)
-![Screenshot 2024-04-23 101555](https://github.com/chandravir-singh/Sage/assets/98638332/2a1c7d4f-0981-412a-b504-c2b9363c8780)
-![Screenshot 2024-04-23 101655](https://github.com/chandravir-singh/Sage/assets/98638332/f813b6eb-ff18-4e9a-b6bc-f9e3704585c9)
+
 
 
 ## Project Video
